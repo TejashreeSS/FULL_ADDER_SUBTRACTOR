@@ -1,5 +1,5 @@
 ### NAME:TEJASHREE S S
-### REG NO:24900167
+### REF NO:24900167
 ### EXPERIMENT 4: IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
